@@ -4,7 +4,7 @@ This repo serves as a starting point and reference for getting started with Reac
 
 https://facebook.github.io/react-native/docs/getting-started.html
 
-# Run the Applications
+# Run the Application
 
 > react-native
 
@@ -29,3 +29,19 @@ Commands:
 
     -h, --help     output usage information
     -V, --version  output the version number
+
+
+### On IOS
+
+> react-native run-ios
+
+
+### On Android
+
+> react-native run-android
+
+
+## Useful References
+
+https://www.tutorialspoint.com/react_native/index.htm - Conscise overview of React Native
+https://github.com/airbnb/react-native-maps
